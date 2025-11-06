@@ -29,7 +29,7 @@ Montar o banco de dados Northwind, melhorar sua estrutura e resolver exercícios
     - ✅ **Melhorias na estrutura:** `02_improving_table_structures.sql`
     - ✅ **Otimizações:** `03_indexes.sql`
 
-## **📚 Exercícios Práticos**
+3. **📚 Exercícios Práticos**
 
 ### **Parte 01 - Fundamentos**
 
