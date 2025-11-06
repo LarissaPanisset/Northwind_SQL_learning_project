@@ -18,7 +18,6 @@ Montar o banco de dados Northwind, melhorar sua estrutura e resolver exercícios
 
 1. **Clone o repositório:**
     
-    bash
     
     ```
     git clone https://github.com/seu-usuario/Northwind_SQL_learning_project.git
