@@ -3,11 +3,8 @@
 Um projeto prático de aprendizado em SQL usando PostgreSQL e DBeaver com o banco de dados Northwind. 
 Desenvolva suas habilidades em SQL através de exercícios progressivos enquanto trabalha com um banco de dados realista.
 
-## **🎯 Objetivo**
 
-Montar o banco de dados Northwind, melhorar sua estrutura e resolver exercícios práticos para desenvolver habilidades em consultas SQL.
-
-## **🚀 Como Executar**
+## **✅ Como Executar**
 
 ### **Pré-requisitos**
 
@@ -29,22 +26,22 @@ Montar o banco de dados Northwind, melhorar sua estrutura e resolver exercícios
     - ✅ **Melhorias na estrutura:** `02_improving_table_structures.sql`
     - ✅ **Otimizações:** `03_indexes.sql`
 
-3. **📚 Exercícios Práticos**
+3. **Exercícios Práticos**
 
-### **Parte 01 - Fundamentos**
+    **Parte 01 - Fundamentos**
 
-- `01_exercise_instructions_part1.md` - Instruções dos exercícios
-- `02_query_solutions_part1.sql` - Soluções das queries
+    - `01_exercise_instructions_part1.md` - Instruções dos exercícios
+    - `02_query_solutions_part1.sql` - Soluções das queries
 
-### **Parte 02 - Intermediário**
+    **Parte 02 - Intermediário**
 
-- `03_exercise_instructions_part2.md` - Instruções dos exercícios
-- `04_query_solutions_part2.sql` - Soluções das queries
+    - `03_exercise_instructions_part2.md` - Instruções dos exercícios
+    - `04_query_solutions_part2.sql` - Soluções das queries
 
-### **Parte 03 - Avançado**
+    **Parte 03 - Avançado**
 
-- `05_exercise_instructions_part3.md` - Instruções dos exercícios
-- `06_query_solutions_part3.sql` - Soluções das queries
+    - `05_exercise_instructions_part3.md` - Instruções dos exercícios
+    - `06_query_solutions_part3.sql` - Soluções das queries
 
 ## **💡 Habilidades Desenvolvidas**
 
