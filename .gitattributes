@@ -1,3 +1,2 @@
-# Forçar o GitHub a reconhecer SQL e Markdown
 *.sql linguist-language=SQL
 *.md linguist-language=Markdown
