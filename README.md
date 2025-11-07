@@ -8,8 +8,7 @@ Desenvolva suas habilidades em SQL através de exercícios progressivos enquanto
 
 ### **Pré-requisitos**
 
-- PostgreSQL instalado
-- DBeaver ou outra ferramenta SQL de sua preferência
+- PostgreSQL, DBeaver ou outra ferramenta SQL de sua preferência
 
 ### **Passo a Passo**
 
