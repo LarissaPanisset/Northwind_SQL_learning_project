@@ -1,7 +1,10 @@
 # **Northwind SQL Learning Journey**
 
-Um projeto prático de aprendizado em SQL usando PostgreSQL e DBeaver com o banco de dados Northwind. 
-Desenvolva suas habilidades em SQL através de exercícios progressivos enquanto trabalha com um banco de dados realista.
+Um projeto prático voltado ao aprendizado de SQL com foco em consultas, modelagem e boas práticas de banco de dados, utilizando PostgreSQL e DBeaver com o clássico banco de dados Northwind.
+
+
+## **🎯 Objetivo**
+Desenvolver habilidades em SQL através de exercícios progressivos enquanto trabalha com um banco de dados realista.
 
 
 ## **✅ Como Executar**
@@ -57,5 +60,5 @@ Desenvolva suas habilidades em SQL através de exercícios progressivos enquanto
 
 ---
 
-🚀 Boa sorte na sua jornada SQL! Feito com 💙 por LARISSA PANISSET 
+🚀 Boa sorte na sua jornada! Feito com 💙 por LARISSA PANISSET 
 
