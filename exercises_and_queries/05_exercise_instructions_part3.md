@@ -31,7 +31,7 @@ B - E depois os nomes dos funcionários que são estritamente mais velhos do que
 Selecione o nome dos funcionários que trabalham há mais tempo do que qualquer funcionário de Londres.
 
 **Exercício 10**  
-Selecione o nome dos funcionários e a cidade que fizeram pedidos para clientes que moram na **mesma cidade** que eles.
+Selecione o nome dos funcionários e a cidade que fizeram pedidos para clientes que moram na mesma cidade que eles.
 
 **Exercício 11**  
 Selecione o nome dos clientes que não compraram nenhum produto.
