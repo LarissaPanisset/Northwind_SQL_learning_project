@@ -1,7 +1,8 @@
 # **Northwind SQL Learning Journey**
-![DM](https://img.shields.io/badge/DM-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![MD](https://img.shields.io/badge/MD-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![SQL (PostgreSQL)](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
+
 
 Um projeto prático voltado ao aprendizado de SQL com foco em consultas, modelagem e boas práticas de banco de dados, utilizando PostgreSQL e DBeaver com o clássico banco de dados Northwind.
 
